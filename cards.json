@@ -18,7 +18,11 @@
 		},
 		{
 			"name": "Gymma",
-			"ocurrenses": 4
+			"ocurrenses": 2
+		},
+		{
+			"name": "Vattna",
+			"ocurrenses": 1
 		}
 	]
 }
